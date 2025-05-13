@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me
 I'm a computer science/cyber security/math student in my fourth year of university. Starting my journey in Mathematica in the third grade, I was interested in practical robotics and software development, becoming captain of my school's Botball team for 5 years through middle and high school. In university, I've taken an interest in cyber security, becoming a team lead in a research initiative at my university working in reverse engineering, system forensics, malware analysis/development, and more. My favorite things to do in my free time include: reverse engineer games that I play to patch out anticheat and develop my own private servers, finding and documenting novel Windows exploits, and speedrunning CrackMes. If you're passionate about reverse engineering, risk assessment, operating system artifact analysis, or any range of topics relating to the security of technology, contact me anytime!
 
-## Favorite Technologies
+## Skills
 Linux, macOS, Windows (exploitation), C, Ghidra, IDA, x86 assembly, Python, Rust, Java, the Adobe suite, Docker, and Mathematica.
 
 ## At the moment...
